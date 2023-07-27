@@ -83,14 +83,14 @@
 				<source src="videos/v1.mp4" type="video/mp4">
 				Your browser does not support the video tag.
 			</video>
-<!--			<video  style="width: 100%;height: 100%" controls>-->
-<!--				<source src="videos/v2.mp4" type="video/mp4">-->
-<!--				Your browser does not support the video tag.-->
-<!--			</video>-->
-<!--			<video style="width: 100%;height: 100%"  controls>-->
-<!--				<source src="videos/v3.mp4" type="video/mp4">-->
-<!--				Your browser does not support the video tag.-->
-<!--			</video>-->
+			<video  style="width: 100%;height: 100%" controls>
+				<source src="videos/v2.mp4" type="video/mp4">
+				Your browser does not support the video tag.
+			</video>
+			<video style="width: 100%;height: 100%"  controls>
+				<source src="videos/v3.mp4" type="video/mp4">
+				Your browser does not support the video tag.
+			</video>
 
 
 		</section>
@@ -181,17 +181,16 @@
 		</section>
 
 		<section class="offer_section bottom">
-			<h2 class="main_title">Накидки <span>Premium</span> класса</h2>
+			<h2 class="main_title"><span>Premium</span> Chehol</h2>
 			<div class="box">
 				<img src="images/offer.jpg" alt="">
-				<img src="images/garanty.png" alt="" class="garanty">
 				<div class="sale">
-					<p>Скидка -53%</p>
+					<p>Chegirma -53%</p>
 				</div>
 			</div>
 			<div class="offer_action clearfix">
 				<div class="timer">
-					<p>До конца акции:</p>
+					<p>Aksiya tugaguncha:</p>
 					<div class="timer_container">
 						<div class="timer_block">
 							<div class="count hours"></div>
@@ -205,8 +204,8 @@
 					</div>
 				</div>
 				<div class="last_count">
-					<span><b>12</b> из 1200</span>
-					<p>*осталось накидок в&nbsp;магазине со скидкой!</p>
+					<span><b>1200</b> dan 12</span>
+					<p>*aksiya doirasida omborda qolgan mahsulotlar</p>
 				</div>
 			</div>
 			<div class="price clearfix">
